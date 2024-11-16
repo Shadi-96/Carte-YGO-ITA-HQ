@@ -2,7 +2,7 @@
 EDOpro con la traduzione in italiano è bello, ma con le immagini delle carte in italiano ed in alta risoluzione è ancora meglio!
 
 ### Link utili
-+ [Scarica il file user_config](https://mega.nz/file/N1ZXGKAA#9PoETTW1IJ31xKz3zAYuXwDBryaCahcLN42su4X9Oxw)
++ [Scarica il file user_config](https://mega.nz/file/A1oUhBTb#Bw6MRmzhKg408BuAMGzpOfrBj0JhUPit1V4Lv-MjCw8)
 
 ### Istruzioni
 + Scarica il file *user_config.json* tramite il link MEGA.
