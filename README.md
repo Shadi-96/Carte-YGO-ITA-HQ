@@ -1,5 +1,5 @@
 # Carte-YGO-ITA-HQ
-EDOpro con la traduzione in italiano è bello, ma con le immagini delle carte in italiano ed in alta risoluzione è ancora meglio!
+EDOpro con la traduzione in italiano è bello, ma con le immagini delle carte in italiano lo è ancora di più!
 
 ### Link utili
 + [Scarica il file user_config](https://mega.nz/file/g5hDyDSS#hTTrt36zscv27AsS9Vg3MNtsErVgzF-1qZOoULAcVSE)
